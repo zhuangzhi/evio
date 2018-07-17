@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/tidwall/evio"
+	"github.com/zhuangzhi/evio"
 )
 
 var res string

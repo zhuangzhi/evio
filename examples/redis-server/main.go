@@ -11,8 +11,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/tidwall/evio"
-	"github.com/tidwall/redcon"
+	"github.com/zhuangzhi/evio"
+	"github.com/zhuangzhi/redcon"
 )
 
 type conn struct {
